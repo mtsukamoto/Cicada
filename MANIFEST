@@ -1,0 +1,17 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Cicada.pm
+lib/Cicada/plugin/db.pm
+lib/Cicada/plugin/decoded_content.pm
+lib/Cicada/plugin/extract_content.pm
+lib/Cicada/plugin/feedpp.pm
+lib/Cicada/plugin/history.pm
+lib/Cicada/plugin/log.pm
+lib/Cicada/plugin/mechanize.pm
+lib/Cicada/plugin/timestamp.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
